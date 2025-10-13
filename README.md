@@ -89,7 +89,7 @@ Overall, my goal is to use my skills and experience to develop innovative and im
   
 ### 📊 Stats
 
-![Pergatory23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pergatory23&show_icons=true&theme=gruvbox)
+![Rafik Gharbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafik-gharbi&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Pergatory23&theme=gruvbox&border_radius=4.5) -->
 
